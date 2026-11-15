@@ -1,4 +1,4 @@
-# JARVIS
+<link rel="stylesheet" href="styles.css" /># JARVIS
 
 A beginner-friendly personal AI assistant **web app prototype** built with plain HTML, CSS, and JavaScript. No frameworks, installs, paid services, or build tools are needed to try it.
 
